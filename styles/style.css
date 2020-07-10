@@ -101,7 +101,7 @@ a:hover {
   font-size: 24px;
   font-weight: 400;
 }
-.two-columns__main-text_span {
+.two-columns__span-accent {
   margin: 0;
   line-height: 34px;
   font-size: 24px;
@@ -239,7 +239,6 @@ a:hover {
   position: absolute;
   right: -210px;
   top: 0px;
-  z-index: 0;
 }
 .footer {
   display: flex;
