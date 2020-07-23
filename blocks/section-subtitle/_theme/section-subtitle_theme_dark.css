@@ -1,0 +1,7 @@
+.section-subtitle_theme_dark {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  width: 60%;
+  color: white;
+}
