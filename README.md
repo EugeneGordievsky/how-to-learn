@@ -1,4 +1,6 @@
 # Научиться учиться
+***
+[Ссылка](https://eugenegordievsky.github.io/how-to-learn/) на проект
 
 Данный проект составлен в рамках учебного курса "Яндес.Практикум" по профессии "Веб-разработчик".
 Сайт описан по макету и описанию брифа [первого](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf) и [второго](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf) спринта обучения.
